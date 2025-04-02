@@ -23,7 +23,7 @@ public class TitlePage {
             topCast.add(actor.getText());
         }
 
-        System.out.println("Top 5 cast members:");
+        System.out.println("Top " + count + " cast members:");
         for (int i = 0; i < topCast.size(); i++) {
             System.out.println((i + 1) + ". " + topCast.get(i));
         }
