@@ -19,8 +19,8 @@ See the `pom.xml` for full dependency details.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/imdb-automation.git
-   cd imdb-automation
+   git clone git@github.com:kapinsk13/luminorTest.git
+   cd luminorTest
 
 2. **Install Dependencies:**
     ```bash
